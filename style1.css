@@ -1,0 +1,26 @@
+h1
+{
+    color:red;
+}
+h4
+{
+    color:red;
+}
+h5
+{
+    color:red;
+}
+span
+{
+    background-color:yellow;
+}
+div
+{   
+    display:inline;
+    text-decoration:line-through;
+}
+ul
+{
+   color:brown;
+   letter-spacing:5px;
+}
